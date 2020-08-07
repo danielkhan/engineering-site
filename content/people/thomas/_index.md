@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti (test)
+title: Thomas Krismayer
 
 # Username (this should match the folder name)
 authors:
-- admin
+- thomas
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Dynatrace Research
+  url: "https://dynatrace.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include real time analytics, distributed  agreement and load balancing algorithms.
 
 interests:
 - Artificial Intelligence
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Thomas joined Dynatrace after finishing his PhD at JKU Linz working on constraint mining and machine learning. He will work in the new LIT co-innovation lab. His first task will be to support the Dynatrace realtime analytics team.
