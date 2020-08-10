@@ -14,29 +14,34 @@
   weight = 20
 
 [[main]]
+  name = "Research Areas"
+  url = "/researchareas"
+  weight = 30
+
+[[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "publications/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "People"
   url = "people/"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "Conferences / Events"
   url = "talk/"
-  weight = 50
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

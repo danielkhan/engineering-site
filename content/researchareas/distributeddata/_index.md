@@ -1,41 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti (test)
+title: Distributed Data Platform 
 
 # Username (this should match the folder name)
 authors:
-- admin
+- distributed data
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher Area
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Dynatrace Research
+  url: "https://dynatrace.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: .....
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Distributed Data Platform
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +62,13 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dynatrace's research in the area of distributed data platforms is a result for the ever increasing need to ingest millions of metrics, logs, events and tracing data in a scalable, resource-efficient manner. While also not disregarding the need that consumers of the stored data should be able to query it in near-real time. To accomplish these goals, distributed data platform research will focus on:​
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## Fundamental Research
+
+The balance of high ingest volume while maintaining fast query times requires research into data compression algorithms, and data indexing algorithms. Data structures that can be stored efficiently on disk without losing data quality. All this in combination with software architectures that allow linear scalability to any kind of load. 
+
+## Technology research
+
+New technologies need to be evaluated regarding their relevance and applicability for distributed data platforms, in order to make the correct architectural decisions​
+
