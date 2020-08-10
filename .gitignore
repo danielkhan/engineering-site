@@ -5,5 +5,5 @@
 resources/
 public/
 .DS_Store
-content/people/thomas/Thumbs.db
-content/researchareas/distributeddata/Thumbs.db
+**/.DS_Store
+**/Thumbs.db
