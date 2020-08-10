@@ -17,11 +17,11 @@ title = "Dynatrace Engineering"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "#006bba"
 
   # Background gradient.
   gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_end = "#006bba"
 
   # Background image.
   # image = ""  # Name of image in `static/media/`.
