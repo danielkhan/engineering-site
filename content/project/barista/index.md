@@ -1,8 +1,9 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Barista
+summary: "Barista is the name of Dynatrace's design system, that contains all ingredients to create extraordinary user experiences. Like a barista picks the best ingredients for their coffee – and we love coffee!
+One major part of the Barista design system is our components library written in Angular."
 tags:
-- Deep Learning
+- oss
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
