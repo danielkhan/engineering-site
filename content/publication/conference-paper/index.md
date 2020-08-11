@@ -1,7 +1,7 @@
 ---
 title: "An example conference paper"
 authors:
-- admin
+- thomas
 - otmar
 
 date: "2013-07-01T00:00:00Z"
@@ -73,4 +73,3 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

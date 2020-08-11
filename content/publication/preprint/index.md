@@ -1,7 +1,9 @@
 ---
 title: "An example preprint / working paper"
 authors:
-- admin
+- thomas
+- markus
+
 date: "2019-04-07T00:00:00Z"
 doi: ""
 

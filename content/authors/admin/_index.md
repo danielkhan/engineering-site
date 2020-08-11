@@ -23,6 +23,7 @@ bio: My research interests include distributed data platforms, storage systems a
 interests:
 - Data Intensive Applications
 - Realtime Analytics
+
 education:
   courses:
   - course: None

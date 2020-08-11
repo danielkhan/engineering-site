@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher in the field of distributed Data Platforms at Dynatrace Research.
+role: Researcher <BR> Distributed Data Platforms.
 
 # Organizations/Affiliations
 organizations:

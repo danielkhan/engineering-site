@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher <BR> Realtime Analytics
 
 # Organizations/Affiliations
 organizations:

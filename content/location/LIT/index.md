@@ -1,13 +1,13 @@
 ---
 title: LIT
 
-summary: "The Dynatrace Research LAB in Linz is located at the LIT Open Innovation Center."
+summary: "The Dynatrace Research LAB in Linz iin the LIT Open Innovation Center."
 
 
 date: "2020-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.jku.at/linz-institute-of-technology/das-lit/lit-open-innovation-center/partnerinnen/"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -31,4 +31,4 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, ...
+The Dynatrace Research LAB in Linz is located at the [LIT Open Innovation Center](https://www.jku.at/linz-institute-of-technology/das-lit/lit-open-innovation-center/partnerinnen/). Out desks are centrally in the open space. Looking forward to see you there.
