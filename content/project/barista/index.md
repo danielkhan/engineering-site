@@ -1,8 +1,9 @@
 ---
-title: Open Telemetry
-summary: OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your applications. Dynatrace is a key contributor since the beginning of the project.
+title: Barista
+summary: "Barista is the name of Dynatrace's design system, that contains all ingredients to create extraordinary user experiences. Like a barista picks the best ingredients for their coffee – and we love coffee!
+One major part of the Barista design system is our components library written in Angular."
 tags:
-- contrib
+- oss
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

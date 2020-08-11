@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Otmar Ertl
+title: Thomas Krismayer
 
 # Username (this should match the folder name)
 authors:
-- otmar
+- thomas
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Senior Software Mathematician
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://dynatrace.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Otmar is Senior Software Mathematician at Dynatrace Research.
+bio: My research interests include real time analytics, distributed  agreement and load balancing algorithms.
 
 interests:
 - Artificial Intelligence
@@ -61,13 +61,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "otmar.ertl@dynatrace.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Dynatrace
 ---
 
-Otmar Ertl is a Senior Software Mathematician at Dynatrace Research. He received the Ph.D. degree in technical sciences from the Vienna University of Technology in 2010. His current research interests include probabilistic algorithms and data structures.
+Thomas joined Dynatrace after finishing his PhD at JKU Linz working on constraint mining and machine learning. He will work in the new LIT co-innovation lab. His first task will be to support the Dynatrace realtime analytics team.

@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Thomas Krismayer
+title: Markus Riedl-Ehrenleitner
 
 # Username (this should match the folder name)
 authors:
-- thomas
+- markus
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher in the field of distributed Data Platforms at Dynatrace Research
 
 # Organizations/Affiliations
 organizations:
 - name: Dynatrace Research
-  url: "https://dynatrace.com"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include real time analytics, distributed  agreement and load balancing algorithms.
+bio: My research interests include distributed data platforms, storage systems and linar scalability.
 
 interests:
 - Artificial Intelligence
@@ -67,7 +67,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Dynatrace
 ---
 
-Thomas joined Dynatrace after finishing his PhD at JKU Linz working on constraint mining and machine learning. He will work in the new LIT co-innovation lab. His first task will be to support the Dynatrace realtime analytics team.
+Markus is a software engineer at Dynatrace, where he contributed to the current processing pipeline and storage system.
+Before joining Dynatrace he was a researcher at the Institute of Software Systems Enginering, researching how consistency across multiple development artifacts can be achieved.

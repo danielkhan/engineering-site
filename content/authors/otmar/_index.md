@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Markus Riedl-Ehrenleitner
+title: Otmar Ertl
 
 # Username (this should match the folder name)
 authors:
-- markus
+- otmar
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Researcher in the field of distributed Data Platforms at Dynatrace Research
+role: Senior Software Mathematician
 
 # Organizations/Affiliations
 organizations:
 - name: Dynatrace Research
-  url: ""
+  url: "https://dynatrace.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed data platforms, storage systems and linar scalability.
+bio: Otmar is Senior Software Mathematician at Dynatrace Research.
 
 interests:
 - Artificial Intelligence
@@ -61,14 +61,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "otmar.ertl@dynatrace.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Dynatrace
 ---
 
-Markus is a software engineer at Dynatrace, where he contributed to the current processing pipeline and storage system.
-Before joining Dynatrace he was a researcher at the Institute of Software Systems Enginering, researching how consistency across multiple development artifacts can be achieved.
+Otmar Ertl is a Senior Software Mathematician at Dynatrace Research. He received the Ph.D. degree in technical sciences from the Vienna University of Technology in 2010. His current research interests include probabilistic algorithms and data structures.

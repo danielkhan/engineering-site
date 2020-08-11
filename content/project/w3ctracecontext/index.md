@@ -1,8 +1,9 @@
 ---
-title: Open Telemetry
-summary: OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your applications. Dynatrace is a key contributor since the beginning of the project.
+title: W3C Trace Context
+summary: "Dynatrace is a founding member of the W3C Trace Context working group. its goal is to create a standard for context
+propagation to improve interoperability between tracing tools, middleware and infrastructure vendors"
 tags:
-- contrib
+- standard
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
