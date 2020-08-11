@@ -38,10 +38,20 @@
   url = "talk/"
   weight = 70
 
-  [[main]]
+[[main]]
+  name = "Jobs"
+  url = "https://www.dynatrace.com/company/careers/"
+  weight = 80
+
+[[main]]
+  name = "Locations"
+  url = "/location"
+  weight = 90
+
+[[main]]
   name = "Blog"
   url = "/post"
-  weight = 80
+  weight = 65
 
 
 # Link to a PDF of your resume/CV from the menu.
