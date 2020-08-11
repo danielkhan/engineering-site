@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher in the field of distributed Data Platforms at Dynatrace Research
+role: Researcher in the field of distributed Data Platforms at Dynatrace Research.
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,8 @@ organizations:
 bio: My research interests include distributed data platforms, storage systems and linar scalability.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Intensive Applications
+- Realtime Analytics
 
 education:
   courses:

@@ -1,68 +1,38 @@
 ---
 # Display name
 title: AIDOaRT
+summary: "AIDOaRT is an EU and FFG funded project unter the ECSEL Program. The challenge is to create an AI-augmented automation for efficient DevOps, a model-based framework for continuous development At RunTime in cyber-physical systems."
+tags:
+- research
+- oss
 
-# Username (this should match the folder name)
-authors:
-- AIDOaRT
+date: "2020-05-27T00:00:00Z"
+# Optional external URL for project (replaces project detail page).
+external_link: ""
 
-# Is this the primary user of the site?
-superuser: false
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
-# Role/position
-role: Cooperation
-
-# Organizations/Affiliations
-organizations:
-- name: Dynatrace Research
-  url: "https://dynatrace.com"
-
-# Short bio (displayed in user profile at end of posts)
-bio: AI-augmented automation for efficient DevOps, a model-based framework for continuous development At RunTime in cyber-physical systems
-
-interests:
-- AIDOART
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+links:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 ---
 
-AI-augmented automation for efficient DevOps, a model-based framework for continuous development At RunTime in cyber-physical systems
+AI-augmented automation for efficient DevOps, a model-based framework for continuous development At RunTime in cyber-physical systems.
 
 Nowadays, modern systems in the domains of Industry 4.0, health care, autonomously driving cars or smart grids are examples of highly communicating (embedded) systems where software enables increasingly advanced functionality. The growing complexity of these Cyber-Physical Systems (CPS) and Cyber-Physical Systems of Systems (CPSoS) poses several challenges throughout all system design, development and analysis phases, but also during their deployment, actual usage and future maintenance.
 
